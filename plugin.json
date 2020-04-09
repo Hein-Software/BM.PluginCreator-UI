@@ -1,0 +1,16 @@
+{
+    "jsonVersion": 1,
+    "name": "BM.PluginCreator-UI",
+    "description": "A user interface for the plugin BM.PluginCreator.",
+    "keywords": "Developer-Tools, Plugin-Creation",
+    "author": "David Hein",
+    "version": "0.1",
+    "type": "DevPlugin",
+    "requiredBMVersion": "0.1",
+    "dependencies":[
+    {
+        "name":"BM.PluginCreator",
+        "version":"0.1"
+    }
+    ]
+}
