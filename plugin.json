@@ -1,5 +1,6 @@
 {
     "jsonVersion": 1,
+    "id": "7d3be41d64e13ef3200ef7bec18b2327",
     "name": "BM.PluginCreator-UI",
     "description": "A user interface for the plugin BM.PluginCreator.",
     "keywords": "Developer-Tools, Plugin-Creation",
